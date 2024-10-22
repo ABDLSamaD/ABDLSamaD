@@ -18,8 +18,6 @@ Welcome to my GitHub profile! I build engaging web experiences using modern fron
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
 
 <!---
 ABDLSamaD/ABDLSamaD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
