@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I build engaging web experiences using modern fron
 - 🌱 I’m currently learning **[MERN].
 - 👯 I’m looking to collaborate on **Frontend projects**.
 - 💬 Ask me about **React, JavaScript, CSS, or any frontend-related questions**.
-- 📫 How to reach me: [your-email@example.com](mailto:samadpakhtoon09@gmail.com).
+- 📫 How to reach me: [samadpakhtoon09@gmail.com]
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
 ### 🛠 Tech Stack:
