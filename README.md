@@ -1,4 +1,4 @@
-# Hi, I'm Abdul Samad 👋
+# Hi, I'm Abdul Samad
 
 ### 🌐 Frontend Developer | Web Enthusiast | Open Source Contributor
 
