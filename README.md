@@ -4,7 +4,6 @@
 
 Welcome to my GitHub profile! I build engaging web experiences using modern frontend technologies.
 
-- 🔭 I’m currently working on Cinema Ticket Managment.
 - 🌱 I’m currently learning **[MERN].
 - 👯 I’m looking to collaborate on **Frontend projects**.
 - 💬 Ask me about **React, JavaScript, CSS, or any frontend-related questions**.
