@@ -1,5 +1,5 @@
 # Hi, I'm Abdul Samad 👋  
-### 🌐 Frontend Developer | Web Enthusiast | Open Source Contributor  
+### 🌐 Frontend Developer | MERN Stack Developer | Full Stack Developer | Web Enthusiast | Open Source Contributor  
 
 Welcome to my GitHub profile! I create engaging and user-friendly web experiences using modern frontend technologies.  
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I create engaging and user-friendly web experience
 ### 🌟 About Me:  
 - 🌱 I’m currently expanding my skills in **MERN Stack**.  
 - 👯 I’m open to collaborating on **Frontend projects** and **Open Source Contributions**.  
-- 💬 Ask me about **React, JavaScript, CSS, TailwindCSS**, or anything related to web development.  
+- 💬 Ask me about **React, JavaScript, CSS, TailwindCSS, Next.js, NodeJs, ExpressJs, MongoDB, TypeScript**, or anything related to web development.  
 - 🎯 Fun Fact: I love turning ideas into reality through code!  
 - 📫 Reach me at: **[samadpakhtoon09@gmail.com](mailto:samadpakhtoon09@gmail.com)**  
 
