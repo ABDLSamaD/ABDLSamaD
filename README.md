@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I create engaging and user-friendly web experience
 ### 🌍 Connect with Me:  
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdul-samad-421793309)  
 - 🐦 [Twitter](https://twitter.com/ABDLSamaD)  
-- 🌐 [Portfolio Website](https://abdlsamad.github.io/Abdul_Samad/)*  
+- 🌐 [Portfolio Website](https://portfolio-mern-sage.vercel.app/)*  
 
 ---
 
