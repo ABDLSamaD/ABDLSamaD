@@ -1,5 +1,9 @@
 # Hi, I'm Abdul Samad! 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FF5733&width=600&lines=Frontend+Developer+|+MERN+Stack+Enthusiast;Passionate+about+UI%2FUX+and+Animations;Open+Source+Contributor+%F0%9F%9A%80;Building+Scalable+Web+Applications" alt="Typing SVG" />
+</p>
+
 ## 🚀 Frontend & Full Stack Developer | MERN Stack Enthusiast | Open Source Contributor  
 
 Bringing ideas to life with modern web technologies. Passionate about crafting beautiful, high-performance web applications. 🚀
