@@ -65,11 +65,11 @@ Bringing ideas to life with modern web technologies. Passionate about crafting b
 
 ### 🔥 **Electrica**
 🚀 A modern **MERN stack** election app with **real-time updates** and an **interactive dashboard**.  
-🔗 [Live Demo](https://electrica.vercel.app) | [Repo](https://github.com/ABDLSamaD/abccreations)  
+🔗 [Live Demo](https://electrica.vercel.app) | [Repo](https://github.com/ABDLSamaD/Electria)  
 
 ### 🎨 **Portfolio Website**  
 🚀 A sleek and modern portfolio showcasing my **skills, projects, and blogs**.  
-🔗 [Live Demo](https://abdfolio.vercel.app) | [Repo](https://github.com/ABDLSamaD/portfolio)  
+🔗 [Live Demo](https://abdfolio.vercel.app) | [Repo](https://github.com/ABDLSamaD/abcreations)  
 
 ---
 
